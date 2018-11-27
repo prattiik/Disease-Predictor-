@@ -1,0 +1,96 @@
+2010,asthma,maharashtra,320,2000
+2011,asthma,maharashtra,520,2000
+2012,asthma,maharashtra,340,2000
+2013,asthma,maharashtra,200,2000
+2014,asthma,maharashtra,720,2000
+2015,asthma,maharashtra,680,2000
+2016,asthma,maharashtra,390,2000
+2017,asthma,maharashtra,860,2000
+2010,jaundice,maharashtra,420,3000
+2011,jaundice,maharashtra,520,3000
+2012,jaundice,maharashtra,620,3000
+2013,jaundice,maharashtra,690,3000
+2014,jaundice,maharashtra,780,3000
+2015,jaundice,maharashtra,960,3000
+2016,jaundice,maharashtra,620,3000
+2017,jaundice,maharashtra,320,3000
+2010,chicken pox,maharashtra,710,2000
+2011,chicken pox,maharashtra,310,2000
+2012,chicken pox,maharashtra,510,2000
+2013,chicken pox,maharashtra,910,2000
+2014,chicken pox,maharashtra,610,2000
+2015,chicken pox,maharashtra,410,2000
+2016,chicken pox,maharashtra,450,2000
+2017,chicken pox,maharashtra,580,2000
+2010,asthma,delhi,700,3500
+2011,asthma,delhi,650,3500
+2012,asthma,delhi,350,3500
+2013,asthma,delhi,580,3500
+2014,asthma,delhi,660,3500
+2015,asthma,delhi,930,3500
+2016,asthma,delhi,990,3500
+2017,asthma,delhi,500,3500
+2010,jaundice,delhi,710,2500
+2011,jaundice,delhi,620,2500
+2012,jaundice,delhi,330,2500
+2013,jaundice,delhi,540,2500
+2014,jaundice,delhi,650,2500
+2015,jaundice,delhi,960,2500
+2016,jaundice,delhi,970,2500
+2017,jaundice,delhi,500,2500
+2010,chicken pox,delhi,510,6500
+2011,chicken pox,delhi,620,6500
+2012,chicken pox,delhi,930,6500
+2013,chicken pox,delhi,840,6500
+2014,chicken pox,delhi,650,6500
+2015,chicken pox,delhi,760,6500
+2016,chicken pox,delhi,670,6500
+2017,chicken pox,delhi,940,6500
+2010,asthma,karnataka,450,4200
+2011,asthma,karnataka,750,4200
+2012,asthma,karnataka,210,4200
+2013,asthma,karnataka,490,4200
+2014,asthma,karnataka,450,4200
+2015,asthma,karnataka,650,4200
+2016,asthma,karnataka,550,4200
+2017,asthma,karnataka,460,4200
+2010,jaundice,karnataka,250,4700
+2011,jaundice,karnataka,750,4700
+2012,jaundice,karnataka,210,4700
+2013,jaundice,karnataka,690,4700
+2014,jaundice,karnataka,450,4700
+2015,jaundice,karnataka,650,4700
+2016,jaundice,karnataka,350,4700
+2017,jaundice,karnataka,260,4700
+2010,chicken pox,karnataka,950,5200
+2011,chicken pox,karnataka,450,5200
+2012,chicken pox,karnataka,510,5200
+2013,chicken pox,karnataka,690,5200
+2014,chicken pox,karnataka,650,5200
+2015,chicken pox,karnataka,950,5200
+2016,chicken pox,karnataka,750,5200
+2017,chicken pox,karnataka,960,5200
+2010,asthma,tamilnadu,320,2000
+2011,asthma,tamilnadu,780,2000
+2012,asthma,tamilnadu,450,2000
+2013,asthma,tamilnadu,780,2000
+2014,asthma,tamilnadu,960,2000
+2015,asthma,tamilnadu,540,2000
+2016,asthma,tamilnadu,350,2000
+2017,asthma,tamilnadu,650,2000
+2010,jaundice,tamilnadu,320,3000
+2011,jaundice,tamilnadu,780,3000
+2012,jaundice,tamilnadu,450,3000
+2013,jaundice,tamilnadu,780,3000
+2014,jaundice,tamilnadu,960,3000
+2015,jaundice,tamilnadu,540,3000
+2016,jaundice,tamilnadu,350,3000
+2017,jaundice,tamilnadu,650,3000
+2010,chicken pox,tamilnadu,1110,2500
+2011,chicken pox,tamilnadu,910,2500
+2012,chicken pox,tamilnadu,350,2500
+2013,chicken pox,tamilnadu,210,2500
+2014,chicken pox,tamilnadu,810,2500
+2015,chicken pox,tamilnadu,710,2500
+2016,chicken pox,tamilnadu,610,2500
+2017,chicken pox,tamilnadu,510,2500
